@@ -1,0 +1,438 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 15 Pro Max",
+    "description": "6.7-inch Super Retina XDR display, A17 Pro chip, Titanium design",
+    "memory": "256GB",
+    "color": "Natural Titanium",
+    "price": 1199,
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://cdn.rbt.ru/images/gen/item_image/image/10306/24/1030517_r4018.jpg",
+    "features": [
+      "Dynamic Island",
+      "48MP Camera",
+      "USB-C",
+      "Face ID"
+    ],
+    "discount": 0,
+    "category": "iPhone"
+  },
+  {
+    "id": "2",
+    "title": "iPhone 15",
+    "description": "6.1-inch Super Retina XDR display, A16 Bionic chip",
+    "memory": "128GB",
+    "color": "Black",
+    "price": 799,
+    "rating": 4.6,
+    "stock": true,
+    "image": "https://img.championat.com/s/1350x900/news/big/v/f/eksperty-ne-rekomenduyut-pokupat-iphone-15-pro-i-iphone-16-v-kitae_17302698561058110854.jpg",
+    "features": [
+      "Dynamic Island",
+      "Dual Camera",
+      "USB-C",
+      "Face ID"
+    ],
+    "discount": 50,
+    "category": "iPhone"
+  },
+  {
+    "id": "3",
+    "title": "iPhone 14 Pro",
+    "description": "6.1-inch ProMotion display, A16 Bionic chip",
+    "memory": "256GB",
+    "color": "Deep Purple",
+    "price": 999,
+    "rating": 4.7,
+    "stock": false,
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/07/FXnpXyqacAAz2t1.jpeg?resize=150",
+    "features": [
+      "Dynamic Island",
+      "48MP Camera",
+      "Face ID"
+    ],
+    "discount": 100,
+    "category": "iPhone"
+  },
+  {
+    "id": "4",
+    "title": "iPhone 13",
+    "description": "6.1-inch Super Retina XDR display, A15 Bionic chip",
+    "memory": "128GB",
+    "color": "Pink",
+    "price": 599,
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://avatars.mds.yandex.net/i?id=0051db2f7999ef611c16e8ab541c83a9_l-11744606-images-thumbs&n=13",
+    "features": [
+      "Ceramic Shield",
+      "Dual Camera",
+      "Face ID"
+    ],
+    "discount": 0,
+    "category": "iPhone"
+  },
+  {
+    "id": "5",
+    "title": "iPhone SE (3rd gen)",
+    "description": "4.7-inch Retina HD display, A15 Bionic chip",
+    "memory": "64GB",
+    "color": "White",
+    "price": 429,
+    "rating": 4.3,
+    "stock": true,
+    "image": "https://telemarket24.ru/upload/medialibrary/4d0/4d0954d3dd15c2bc83c6c72855455372.jpg",
+    "features": [
+      "Touch ID",
+      "Single Camera",
+      "Home Button"
+    ],
+    "discount": 30,
+    "category": "iPhone"
+  },
+  {
+    "id": "6",
+    "title": "iPhone 12",
+    "description": "6.1-inch Super Retina XDR display, A14 Bionic chip",
+    "memory": "64GB",
+    "color": "Blue",
+    "price": 499,
+    "rating": 4.4,
+    "stock": true,
+    "image": "https://example.com/iphone12.jpg",
+    "features": [
+      "Ceramic Shield",
+      "Dual Camera",
+      "MagSafe"
+    ],
+    "discount": 150,
+    "category": "iPhone"
+  },
+  {
+    "id": "7",
+    "title": "iPhone 11",
+    "description": "6.1-inch Liquid Retina HD display, A13 Bionic chip",
+    "memory": "64GB",
+    "color": "Purple",
+    "price": 399,
+    "rating": 4.2,
+    "stock": false,
+    "image": "https://i.ebayimg.com/images/g/Mc8AAOSwRLdg9wup/s-l1600.jpg",
+    "features": [
+      "Dual Camera",
+      "Face ID",
+      "All-day battery"
+    ],
+    "discount": 0,
+    "category": "iPhone"
+  },
+  {
+    "id": "8",
+    "title": "iPhone XR",
+    "description": "6.1-inch Liquid Retina HD display, A12 Bionic chip",
+    "memory": "64GB",
+    "color": "Coral",
+    "price": 299,
+    "rating": 4,
+    "stock": true,
+    "image": "https://content.forward.lc/files/apple/catalog/iPhone_XR/coral_2.png",
+    "features": [
+      "Single Camera",
+      "Face ID",
+      "Wireless charging"
+    ],
+    "discount": 50,
+    "category": "iPhone"
+  },
+  {
+    "id": "9",
+    "title": "iPhone 15 Plus",
+    "description": "6.7-inch Super Retina XDR display, A16 Bionic chip",
+    "memory": "128GB",
+    "color": "Green",
+    "price": 899,
+    "rating": 4.6,
+    "stock": true,
+    "image": "https://cdn.rbt.ru/images/gen/item_image/image/10381/24/1038090_r2419.jpg",
+    "features": [
+      "Dynamic Island",
+      "Dual Camera",
+      "USB-C"
+    ],
+    "discount": 0,
+    "category": "iPhone"
+  },
+  {
+    "id": "10",
+    "title": "iPhone 14 Plus",
+    "description": "6.7-inch Super Retina XDR display, A15 Bionic chip",
+    "memory": "128GB",
+    "color": "Yellow",
+    "price": 799,
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/iphone-last-line-no-longer-available-error-fix.png",
+    "features": [
+      "Crash Detection",
+      "Dual Camera",
+      "All-day battery"
+    ],
+    "discount": 100,
+    "category": "iPhone"
+  },
+  {
+    "id": "11",
+    "title": "iPad Pro 12.9\" (M2)",
+    "description": "12.9-inch Liquid Retina XDR display, M2 chip",
+    "memory": "256GB",
+    "color": "Space Gray",
+    "price": 1099,
+    "rating": 4.9,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray-wifi_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1670865949316",
+    "features": [
+      "ProMotion",
+      "Face ID",
+      "Thunderbolt",
+      "Apple Pencil support"
+    ],
+    "discount": 0,
+    "category": "iPad"
+  },
+  {
+    "id": "12",
+    "title": "iPad Air (M1)",
+    "description": "10.9-inch Liquid Retina display, M1 chip",
+    "memory": "64GB",
+    "color": "Blue",
+    "price": 599,
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-202203-blue-wifi_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1645636338068",
+    "features": [
+      "Touch ID",
+      "USB-C",
+      "Apple Pencil support"
+    ],
+    "discount": 50,
+    "category": "iPad"
+  },
+  {
+    "id": "13",
+    "title": "iPad (10th gen)",
+    "description": "10.9-inch Liquid Retina display, A14 Bionic chip",
+    "memory": "64GB",
+    "color": "Pink",
+    "price": 449,
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-10th-gen-finish-select-202210-pink_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1664403355593",
+    "features": [
+      "Touch ID",
+      "USB-C",
+      "Landscape camera"
+    ],
+    "discount": 0,
+    "category": "iPad"
+  },
+  {
+    "id": "14",
+    "title": "iPad mini (6th gen)",
+    "description": "8.3-inch Liquid Retina display, A15 Bionic chip",
+    "memory": "64GB",
+    "color": "Purple",
+    "price": 499,
+    "rating": 4.6,
+    "stock": false,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-select-202109-purple_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1631751016000",
+    "features": [
+      "Touch ID",
+      "USB-C",
+      "Apple Pencil support"
+    ],
+    "discount": 0,
+    "category": "iPad"
+  },
+  {
+    "id": "15",
+    "title": "MacBook Pro 14\" (M3 Pro)",
+    "description": "14.2-inch Liquid Retina XDR display, M3 Pro chip",
+    "memory": "512GB",
+    "color": "Space Gray",
+    "price": 1999,
+    "rating": 4.9,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697230830948",
+    "features": [
+      "ProMotion",
+      "Touch Bar",
+      "MagSafe",
+      "6-speaker system"
+    ],
+    "discount": 0,
+    "category": "Mac"
+  },
+  {
+    "id": "16",
+    "title": "MacBook Air 15\" (M2)",
+    "description": "15.3-inch Liquid Retina display, M2 chip",
+    "memory": "256GB",
+    "color": "Midnight",
+    "price": 1299,
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-15-midnight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1683842218471",
+    "features": [
+      "MagSafe",
+      "Touch ID",
+      "4-speaker system"
+    ],
+    "discount": 100,
+    "category": "Mac"
+  },
+  {
+    "id": "17",
+    "title": "MacBook Air 13\" (M1)",
+    "description": "13.3-inch Retina display, M1 chip",
+    "memory": "256GB",
+    "color": "Gold",
+    "price": 999,
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-202011?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1633027804000",
+    "features": [
+      "Touch ID",
+      "Fanless design",
+      "18-hour battery"
+    ],
+    "discount": 0,
+    "category": "Mac"
+  },
+  {
+    "id": "18",
+    "title": "iMac 24\" (M3)",
+    "description": "24-inch 4.5K Retina display, M3 chip",
+    "memory": "256GB",
+    "color": "Green",
+    "price": 1299,
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-blue-selection-hero-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697140759299",
+    "features": [
+      "4.5K display",
+      "1080p camera",
+      "6-speaker system"
+    ],
+    "discount": 0,
+    "category": "Mac"
+  },
+  {
+    "id": "19",
+    "title": "Mac mini (M2)",
+    "description": "M2 chip with 8-core CPU, 10-core GPU",
+    "memory": "256GB",
+    "color": "Silver",
+    "price": 599,
+    "rating": 4.6,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1670464390848",
+    "features": [
+      "Compact design",
+      "Two Thunderbolt ports",
+      "Wi-Fi 6E"
+    ],
+    "discount": 0,
+    "category": "Mac"
+  },
+  {
+    "id": "20",
+    "title": "AirPods Pro (2nd gen)",
+    "description": "Active Noise Cancellation, Adaptive Audio",
+    "memory": "N/A",
+    "color": "White",
+    "price": 249,
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1693014154504",
+    "features": [
+      "H2 chip",
+      "MagSafe charging",
+      "6-hour battery"
+    ],
+    "discount": 0,
+    "category": "Accessories"
+  },
+  {
+    "id": "21",
+    "title": "AirPods (3rd gen)",
+    "description": "Spatial audio, sweat and water resistant",
+    "memory": "N/A",
+    "color": "White",
+    "price": 169,
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1632861342000",
+    "features": [
+      "Adaptive EQ",
+      "MagSafe charging",
+      "6-hour battery"
+    ],
+    "discount": 20,
+    "category": "Accessories"
+  },
+  {
+    "id": "22",
+    "title": "Apple Watch Ultra 2",
+    "description": "49mm titanium case, Always-On Retina display",
+    "memory": "N/A",
+    "color": "Titanium",
+    "price": 799,
+    "rating": 4.9,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT3F3ref_VW_34FR+watch-49-titanium-ultra2_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1693501329439",
+    "features": [
+      "Dual-frequency GPS",
+      "Ocean Band",
+      "36-hour battery"
+    ],
+    "discount": 0,
+    "category": "Watch"
+  },
+  {
+    "id": "23",
+    "title": "Apple Watch Series 9",
+    "description": "45mm aluminum case, Always-On Retina display",
+    "memory": "N/A",
+    "color": "Pink",
+    "price": 429,
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT3X3ref_VW_34FR+watch-45-alum-pink-nc-9s_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1693501329439",
+    "features": [
+      "S9 chip",
+      "Fast charging",
+      "18-hour battery"
+    ],
+    "discount": 0,
+    "category": "Watch"
+  },
+  {
+    "id": "24",
+    "title": "Apple Watch SE (2nd gen)",
+    "description": "44mm aluminum case, Retina display",
+    "memory": "N/A",
+    "color": "Midnight",
+    "price": 249,
+    "rating": 4.4,
+    "stock": true,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT6Y3ref_VW_34FR+watch-44-alum-midnight-nc-se_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1693501329439",
+    "features": [
+      "S8 chip",
+      "Swimproof",
+      "18-hour battery"
+    ],
+    "discount": 30,
+    "category": "Watch"
+  }
+]
